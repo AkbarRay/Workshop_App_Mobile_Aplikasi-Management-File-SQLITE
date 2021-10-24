@@ -1,1 +1,10 @@
 # Workshop_App_Mobile_Aplikasi-Management-File-SQLITE
+![Screenshot_2021-10-24-17-43-57-763_com rekoso pemaisqlite](https://user-images.githubusercontent.com/75087204/138595849-a26b6c65-cab5-4e00-bd4a-c87f46768eba.jpg)
+![Screenshot_2021-10-24-17-43-48-762_com rekoso pemaisqlite](https://user-images.githubusercontent.com/75087204/138595851-2a54c10b-8c60-4a56-a61f-e16fd56648bd.jpg)
+![Screenshot_2021-10-24-17-43-42-301_com rekoso pemaisqlite](https://user-images.githubusercontent.com/75087204/138595852-59472866-7b81-4238-be8c-1ec29a58bf8d.jpg)
+![Screenshot_2021-10-24-17-43-24-446_com rekoso pemaisqlite](https://user-images.githubusercontent.com/75087204/138595855-9ccf59a7-7c18-4442-b7b4-05063e9d132b.jpg)
+![Screenshot_2021-10-24-17-44-33-776_com rekoso pemaisqlite](https://user-images.githubusercontent.com/75087204/138595857-82bf41d5-8f48-459f-b265-70280dabf269.jpg)
+![Screenshot_2021-10-24-17-44-24-525_com rekoso pemaisqlite](https://user-images.githubusercontent.com/75087204/138595859-d1d83a32-6558-4b3f-ad03-9145a602f305.jpg)
+![Screenshot_2021-10-24-17-44-21-131_com rekoso pemaisqlite](https://user-images.githubusercontent.com/75087204/138595861-fd4fe837-1866-41dd-95c5-1001e206fe9e.jpg)
+![Screenshot_2021-10-24-17-44-15-609_com rekoso pemaisqlite](https://user-images.githubusercontent.com/75087204/138595864-b7e8641b-20fb-4b93-a043-0f1b474c3b27.jpg)
+![Screenshot_2021-10-24-17-44-01-717_com rekoso pemaisqlite](https://user-images.githubusercontent.com/75087204/138595867-2b9b29bd-a29d-46de-8644-97b305fe42f8.jpg)
